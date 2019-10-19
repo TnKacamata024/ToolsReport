@@ -7,4 +7,4 @@ $ pkg install git
 $ git clone https://github.com/TnKacamata024/ToolsReport 
 $ cd ToolsReport
 $ ls
-$ sh ToolsReport.sh
+$ sh Tools-Report.sh
